@@ -1,3 +1,5 @@
 First message
 second line
 soz soz soz soz
+
+nado bylo izmenit dlya feature-test
