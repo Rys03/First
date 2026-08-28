@@ -3,3 +3,4 @@ second line
 soz soz soz soz
 
 nado bylo izmenit dlya feature-test
+B text for branch B
