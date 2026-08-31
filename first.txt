@@ -1,7 +1,0 @@
-First message
-second line
-soz soz soz soz
-
-nado bylo izmenit dlya feature-test
-A for bransh A
-B text for branch B
